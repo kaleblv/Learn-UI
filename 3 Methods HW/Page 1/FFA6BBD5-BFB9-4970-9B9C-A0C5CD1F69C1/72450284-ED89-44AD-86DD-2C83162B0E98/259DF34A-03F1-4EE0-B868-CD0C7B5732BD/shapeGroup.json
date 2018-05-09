@@ -1,0 +1,123 @@
+{
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "259DF34A-03F1-4EE0-B868-CD0C7B5732BD",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 23,
+    "width": 168,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "4510B80B-0E1B-46FF-9A7E-018E11659EE3"
+    },
+    {
+      "class": "shapePath",
+      "id": "C668905A-A92A-4633-813B-3C1CAA854570"
+    },
+    {
+      "class": "shapePath",
+      "id": "30343CBA-12EA-4042-88EA-0A8ACAEF7C30"
+    },
+    {
+      "class": "shapePath",
+      "id": "237D06BC-CAD2-4D3B-9401-EAB1EEF14454"
+    },
+    {
+      "class": "shapePath",
+      "id": "02F9088B-EA94-48EC-A4EA-77B36CD1F522"
+    },
+    {
+      "class": "shapePath",
+      "id": "2907E18E-6CA3-4EBC-9E51-37BA89049E5A"
+    },
+    {
+      "class": "shapePath",
+      "id": "CD9CBB8A-1F14-4DBE-A042-D64C61E398D3"
+    },
+    {
+      "class": "shapePath",
+      "id": "F87BCF61-1D82-402B-AB32-2319D5A7FFE7"
+    },
+    {
+      "class": "rectangle",
+      "id": "E3BB7D99-8293-4E25-9CA0-2938884BD4F1"
+    }
+  ],
+  "name": "Combined Shape",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "encodedAttributes": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "MSAttributedStringFontAttribute": {
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "SofiaProBlack",
+            "size": 19
+          }
+        },
+        "kerning": 1.399999976158142,
+        "paragraphStyle": {
+          "_class": "paragraphStyle",
+          "allowsDefaultTighteningForTruncation": 0
+        }
+      },
+      "verticalAlignment": 0
+    }
+  },
+  "windingRule": 1
+}
