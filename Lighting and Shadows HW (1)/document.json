@@ -16,7 +16,11 @@
   },
   "colorSpace": 0,
   "do_objectID": "81F22DF4-5EE2-439C-9A1A-17C4563AA631",
+  "foreignLayerStyles": [
+  ],
   "foreignSymbols": [
+  ],
+  "foreignTextStyles": [
   ],
   "layerSymbols": {
     "_class": "symbolContainer",
@@ -24,11 +28,16 @@
     ]
   },
   "meta": {
-    "appVersion": "49.1",
-    "build": 51147,
-    "version": 101
+    "appVersion": "50.2",
+    "build": 55047,
+    "version": 103
   },
   "pages": [
     "Page 1"
-  ]
+  ],
+  "userInfo": {
+    "com.invisionlabs.sync": {
+      "metadata": "{\"hasSynced\":0,\"hasProjectIdChanged\":0,\"projectId\":0,\"publicLink\":\"\",\"resolution\":2,\"syncAll\":1}"
+    }
+  }
 }
