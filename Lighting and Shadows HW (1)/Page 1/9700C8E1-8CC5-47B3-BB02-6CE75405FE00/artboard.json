@@ -1,0 +1,264 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9214498299319728,
+    "green": 0.9214498299319728,
+    "red": 0.9214498299319728
+  },
+  "do_objectID": "9700C8E1-8CC5-47B3-BB02-6CE75405FE00",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 568,
+    "width": 320,
+    "x": 371,
+    "y": 118
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+      8,
+      312,
+      20,
+      300,
+      160
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "E9435CAA-B46B-4AD6-84C0-1D7CA6EB6654"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "5B1884E7-9F6D-4E07-9D10-834E3F6A54FE"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "1FAB0359-2B7A-461E-9E1C-356B7587C87B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "EE00D3AF-83A2-4F93-9A5D-D76FD8982023"
+    },
+    {
+      "class": "text",
+      "id": "7B5A2EDB-2BA1-42F9-BC1D-A0AE9BBFA391"
+    },
+    {
+      "class": "text",
+      "id": "E0B80749-CEE7-4A9E-A0BC-6CF9EE0F449C"
+    },
+    {
+      "class": "text",
+      "id": "A6B661BC-1F64-4236-9E54-DA92C375BBED"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "689BBDE4-9FB8-4A01-9D2D-9D57050B9DB2"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "6A0D3D9A-DBF5-4B61-BF06-84F210B10B66"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "5A0CE1AF-FD87-44B8-AFAB-4DA02744859F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "2BDDDC4B-EA5A-446D-A0CA-8E9F1A7D97B9"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "DFD5CB0F-6868-4D33-939B-85620E2D7551"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "9686DEB9-50F4-411C-BCC4-DD6A8F4E1B67"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "804D2122-108A-496A-A384-52C21C87845A"
+    },
+    {
+      "class": "text",
+      "id": "E68602BE-5A27-4F22-A321-EF3CDB841B6D"
+    },
+    {
+      "class": "text",
+      "id": "8B7D7100-25FB-4A4C-8D5B-E9194B092E59"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "C0018662-B8F0-4FFF-85B0-8409AB0CBA41"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "7DC53302-5E68-4DD8-B622-8BDF952F5C31"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "C3F12229-E3E7-4CC5-A2A8-BAFA83D71DE6"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "EF5D7EF6-4036-4656-A27E-8885EA1173D9"
+    },
+    {
+      "class": "text",
+      "id": "24652414-8219-4DC4-8A24-ABD82FFF9BC3"
+    },
+    {
+      "class": "text",
+      "id": "FDF79C59-910D-49B4-994E-35CBDC4F87F1"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "DB6C79AB-D4BE-46EC-B89F-D7A7C4ED8253"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "E2099BE3-10D0-41C3-8FE8-54FEE430AA50"
+    },
+    {
+      "class": "text",
+      "id": "FE119AFE-1DB6-495F-9D9E-087BDB372F7B"
+    },
+    {
+      "class": "text",
+      "id": "6277DFF3-3A62-478F-A565-E9E720E99095"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "2766C1F1-46F0-4A0D-95AD-CE44478A836B"
+    },
+    {
+      "class": "text",
+      "id": "4D1BA226-5367-4C0F-ADB5-95EAA96CBF56"
+    },
+    {
+      "class": "text",
+      "id": "9FDCF0F8-BF8D-4A24-9E2E-2CFB03AB608F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "2CA06F05-CC08-4CD2-AD82-F8A93AEAAAB0"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "ED181D3D-27E7-4E53-938D-EB5C2D82E216"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "6A3E0F03-4428-4D47-A88B-FABE7BC25B6E"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "01D07172-7B13-4578-BE42-18844A260C1F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "8837C5C9-9C83-4AFC-B038-DCF3E16E1DD3"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "BC019582-87CC-43AE-9DB5-A232C9044303"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "4F97DC6E-7D06-494C-BF49-630F0857C6A4"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F4C47086-78B4-4915-800B-C42EE94056A9"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "050603F6-4584-429E-8C90-91F9F0B7A948"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "E340F8BD-01F8-4BA1-8D7D-67DFC013A1DE"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "D44366FB-3E4F-48D0-B19E-D801845C4A82"
+    }
+  ],
+  "name": "Lighting and Shadows HW",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 1,
+    "height": 568,
+    "name": "iPhone SE",
+    "offersLandscapeVariant": 1,
+    "width": 320
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}
