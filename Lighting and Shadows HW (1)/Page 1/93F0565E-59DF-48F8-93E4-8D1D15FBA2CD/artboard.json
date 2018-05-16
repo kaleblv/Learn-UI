@@ -1,0 +1,270 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9214498299319728,
+    "green": 0.9214498299319728,
+    "red": 0.9214498299319728
+  },
+  "do_objectID": "93F0565E-59DF-48F8-93E4-8D1D15FBA2CD",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 568,
+    "width": 320,
+    "x": 1631,
+    "y": 783
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+      8,
+      312,
+      20,
+      300,
+      160
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "9F3A66C5-6E0C-4C41-A66D-2D06B736DF9B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "60D77ACB-8E96-42AD-A2F0-24FD12369723"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "4E38C455-3749-4444-92D2-8032BF1AA246"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "97B3BDAE-648B-4A14-A5D5-E3226B5B24DA"
+    },
+    {
+      "class": "text",
+      "id": "145D0C9A-AFCB-4933-9735-F1D4766052EF"
+    },
+    {
+      "class": "text",
+      "id": "9A61EF5D-0720-4874-935A-5B649A3F6347"
+    },
+    {
+      "class": "text",
+      "id": "DEE85A41-AD10-4F5C-94EB-5334EC9BAD13"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "D1799114-FEA4-44BC-8B62-ACDD72E517FE"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "C7550F97-8D29-40F8-9903-77D071CA993A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "61B6401D-7EB0-482E-A3AA-F719B09907F4"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F03D6FEB-70CB-4119-84D5-00B429D807DC"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "0E4EB0F7-B02D-4E30-85B4-D4C9FD756D54"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "A493445C-578C-443F-BD38-268C72935C0C"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "5551A35E-718C-4E4F-A147-449FFB8C61AB"
+    },
+    {
+      "class": "text",
+      "id": "1AFA9333-F486-4674-B0F9-FCC89358E216"
+    },
+    {
+      "class": "text",
+      "id": "244DECEE-B6C5-4C95-813B-CCCB03BABD16"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "042F67A1-AA6B-42CC-B06A-4B1AE31A5422"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "5EB1ED91-5E81-4C14-A1BE-00834F9C05CF"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "E3B52C72-EC38-4FE7-8186-040668943DD2"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "A15D7189-B755-4D25-A867-0B0217804A9E"
+    },
+    {
+      "class": "text",
+      "id": "A712C648-A9AA-4CA7-B70D-CC1E1279BEFA"
+    },
+    {
+      "class": "text",
+      "id": "BB5B157E-A1F6-48E1-B5C6-CD7FC96DA69F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "E7768FBE-F490-4F96-9698-E6668A0D799C"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "29A9E742-5693-436F-958D-90F01B20E221"
+    },
+    {
+      "class": "text",
+      "id": "72E0D78C-693D-4228-9EA9-50894CBBB1F6"
+    },
+    {
+      "class": "text",
+      "id": "AF41C257-B4E8-49EB-9A18-2C6957621488"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "ACB0E697-7E0A-4EEF-82C6-A686B8390B83"
+    },
+    {
+      "class": "text",
+      "id": "8B03E673-D58E-4D21-BA60-763CB06A65B5"
+    },
+    {
+      "class": "text",
+      "id": "A1F33547-3C37-4706-9925-A986B1E24067"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "86134CBE-E448-4A74-8A88-FEBB6522F24B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "CE58415D-02BD-4CFD-9661-157AE2A3D01B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "7B70494E-083D-424F-8BDC-32B464C201C8"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "04DD0FC8-CBDD-401D-B44E-96C7ACE90EBD"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "1A1F4C97-87D3-41CF-8D02-4131DCF17E83"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "9E159B47-CEA2-40F9-BC79-5E7090C1AFA0"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "746978A7-06AD-4B7D-AFBD-B4FF7A0891C1"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "5035E639-4994-4FFE-9411-46B9C79E49AB"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "EF719C30-5148-4BB2-8CDB-192FEEA7EEB1"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "227031FD-D94C-46D1-8AAC-ED61DA12D70D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "EEFDCFAB-51E7-4161-8591-07310A136B67"
+    }
+  ],
+  "name": "Lighting and Shadows HW Copy 6",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 1,
+    "height": 568,
+    "name": "iPhone SE",
+    "offersLandscapeVariant": 1,
+    "width": 320
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}
