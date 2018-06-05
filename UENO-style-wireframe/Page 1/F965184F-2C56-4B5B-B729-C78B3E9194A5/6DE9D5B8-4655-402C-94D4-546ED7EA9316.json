@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Roboto-Medium",
+              "name": "Roboto-Light",
               "size": 16
             }
           },
@@ -51,12 +51,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "4FD631C7-10E9-4552-BB65-9B6679AAEC79",
-    "height": 19,
-    "width": 631,
-    "x": 24,
-    "y": 278
+    "height": 69,
+    "width": 378,
+    "x": 22,
+    "y": 347
   },
-  "glyphBounds": "{{0, 3}, {630, 16}}",
+  "glyphBounds": "{{0, 3}, {328, 35}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -65,7 +65,7 @@
   "lineSpacingBehaviour": 2,
   "name": "Arrange a metting in",
   "nameIsFixed": false,
-  "resizingConstraint": 47,
+  "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
@@ -89,7 +89,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Roboto-Medium",
+            "name": "Roboto-Light",
             "size": 16
           }
         },
@@ -104,11 +104,11 @@
       "verticalAlignment": 0
     }
   },
-  "textBehaviour": 0,
+  "textBehaviour": 2,
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {
-        "isAutoWidth": 1
+        "isAutoWidth": 0
       }
     }
   }

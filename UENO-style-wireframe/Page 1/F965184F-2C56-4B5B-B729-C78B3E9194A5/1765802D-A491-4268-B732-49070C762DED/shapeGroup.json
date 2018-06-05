@@ -1,7 +1,7 @@
 {
   "_class": "shapeGroup",
   "clippingMaskMode": 0,
-  "do_objectID": "B7D09D6A-F83C-4D2F-B4E3-446FA59A4491",
+  "do_objectID": "1765802D-A491-4268-B732-49070C762DED",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -14,10 +14,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 57,
-    "width": 768,
-    "x": 0,
-    "y": 0
+    "height": 3,
+    "width": 449,
+    "x": 23,
+    "y": 242
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -25,35 +25,43 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
-      "class": "rectangle",
-      "id": "E852C24C-7F26-49B9-AEA1-44D3C126DFE3"
+      "class": "shapePath",
+      "id": "6C6205FE-8A2D-4704-BDC3-9BAD08013731"
     }
   ],
-  "name": "header-bg",
-  "nameIsFixed": true,
+  "name": "Line",
+  "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": false,
+      "lineCapStyle": 2,
+      "lineJoinStyle": 0
+    },
     "borders": [
       {
         "_class": "border",
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.592,
-          "green": 0.592,
-          "red": 0.592
+          "blue": 0.1882352941176471,
+          "green": 0.1882352941176471,
+          "red": 0.1882352941176471
         },
         "fillType": 0,
-        "isEnabled": false,
-        "position": 1,
-        "thickness": 1
+        "isEnabled": true,
+        "position": 0,
+        "thickness": 0.5
       }
     ],
     "endDecorationType": 0,
@@ -63,12 +71,12 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.19,
-          "green": 0.19,
-          "red": 0.19
+          "blue": 1,
+          "green": 1,
+          "red": 1
         },
         "fillType": 0,
-        "isEnabled": true,
+        "isEnabled": false,
         "noiseIndex": 0,
         "noiseIntensity": 0,
         "patternFillType": 1,
@@ -76,28 +84,6 @@
       }
     ],
     "miterLimit": 10,
-    "shadows": [
-      {
-        "_class": "shadow",
-        "blurRadius": 1,
-        "color": {
-          "_class": "color",
-          "alpha": 0.03,
-          "blue": 0,
-          "green": 0,
-          "red": 0
-        },
-        "contextSettings": {
-          "_class": "graphicsContextSettings",
-          "blendMode": 0,
-          "opacity": 1
-        },
-        "isEnabled": true,
-        "offsetX": 0,
-        "offsetY": 1,
-        "spread": 0
-      }
-    ],
     "startDecorationType": 0
   },
   "userInfo": {

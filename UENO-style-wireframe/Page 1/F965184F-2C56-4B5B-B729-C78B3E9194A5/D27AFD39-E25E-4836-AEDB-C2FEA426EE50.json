@@ -9,9 +9,9 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0,
-            "green": 0,
-            "red": 0
+            "blue": 0.1882352941176471,
+            "green": 0.1882352941176471,
+            "red": 0.1882352941176471
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
@@ -28,11 +28,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 4,
+        "length": 9,
         "location": 0
       }
     ],
-    "string": "Task"
+    "string": "Task Name"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "D27AFD39-E25E-4836-AEDB-C2FEA426EE50",
@@ -50,18 +50,18 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 19,
-    "width": 37,
-    "x": 24,
-    "y": 115
+    "width": 86,
+    "x": 22,
+    "y": 184
   },
-  "glyphBounds": "{{0, 3}, {36, 13}}",
+  "glyphBounds": "{{0, 3}, {85, 13}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Task",
+  "name": "Task Name",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -78,9 +78,9 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0,
-          "green": 0,
-          "red": 0
+          "blue": 0.1882352941176471,
+          "green": 0.1882352941176471,
+          "red": 0.1882352941176471
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",

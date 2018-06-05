@@ -1,10 +1,11 @@
 {
   "_class": "rectangle",
-  "booleanOperation": -1,
-  "do_objectID": "E852C24C-7F26-49B9-AEA1-44D3C126DFE3",
+  "booleanOperation": 0,
+  "do_objectID": "6DE5E0D8-7D04-4884-A547-9851E6DFC501",
   "edited": false,
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "1E095B6C-495E-47E9-9CC0-081BCEA295C4",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,9 +17,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 57,
-    "width": 768,
-    "x": 0,
+    "do_objectID": "13E26AF0-AC6F-4302-9CF5-935F51A82452",
+    "height": 12,
+    "width": 2,
+    "x": 5,
     "y": 0
   },
   "hasConvertedToNewRoundCorners": true,
@@ -28,7 +30,7 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Path",
+  "name": "Rectangle 4",
   "nameIsFixed": false,
   "pointRadiusBehaviour": 1,
   "points": [
@@ -75,12 +77,6 @@
   ],
   "resizingConstraint": 63,
   "resizingType": 0,
-  "rotation": 0,
-  "shouldBreakMaskChain": false,
-  "userInfo": {
-    "com.animaapp.stc-sketch-plugin": {
-      "kModelPropertiesKey": {
-      }
-    }
-  }
+  "rotation": -90,
+  "shouldBreakMaskChain": false
 }

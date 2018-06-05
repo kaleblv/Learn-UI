@@ -1,7 +1,7 @@
 {
   "_class": "shapeGroup",
   "clippingMaskMode": 0,
-  "do_objectID": "B7D09D6A-F83C-4D2F-B4E3-446FA59A4491",
+  "do_objectID": "6FD57923-A7EF-4179-99D6-B70B18D6DD05",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -14,10 +14,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 57,
-    "width": 768,
-    "x": 0,
-    "y": 0
+    "height": 12,
+    "width": 12,
+    "x": 4,
+    "y": 4
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -25,15 +25,19 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "rectangle",
-      "id": "E852C24C-7F26-49B9-AEA1-44D3C126DFE3"
+      "id": "D2470CEC-D9A6-4C95-9F5E-B3E0B405B4D9"
+    },
+    {
+      "class": "rectangle",
+      "id": "6DE5E0D8-7D04-4884-A547-9851E6DFC501"
     }
   ],
-  "name": "header-bg",
-  "nameIsFixed": true,
+  "name": "Combined Shape",
+  "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
@@ -51,7 +55,7 @@
           "red": 0.592
         },
         "fillType": 0,
-        "isEnabled": false,
+        "isEnabled": true,
         "position": 1,
         "thickness": 1
       }
@@ -63,9 +67,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.19,
-          "green": 0.19,
-          "red": 0.19
+          "blue": 1,
+          "green": 1,
+          "red": 1
         },
         "fillType": 0,
         "isEnabled": true,
@@ -76,28 +80,6 @@
       }
     ],
     "miterLimit": 10,
-    "shadows": [
-      {
-        "_class": "shadow",
-        "blurRadius": 1,
-        "color": {
-          "_class": "color",
-          "alpha": 0.03,
-          "blue": 0,
-          "green": 0,
-          "red": 0
-        },
-        "contextSettings": {
-          "_class": "graphicsContextSettings",
-          "blendMode": 0,
-          "opacity": 1
-        },
-        "isEnabled": true,
-        "offsetX": 0,
-        "offsetY": 1,
-        "spread": 0
-      }
-    ],
     "startDecorationType": 0
   },
   "userInfo": {

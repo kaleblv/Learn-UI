@@ -1,9 +1,10 @@
 {
   "_class": "shapeGroup",
   "clippingMaskMode": 0,
-  "do_objectID": "B7D09D6A-F83C-4D2F-B4E3-446FA59A4491",
+  "do_objectID": "7D0C2CD6-DAF7-46C2-8756-106D0B4E9928",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "ECB0BE28-3111-4073-AFE9-4A8DD6E975B5",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -14,8 +15,9 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 57,
-    "width": 768,
+    "do_objectID": "EF0AECBD-C905-4099-B35D-C54BC0388237",
+    "height": 22,
+    "width": 64,
     "x": 0,
     "y": 0
   },
@@ -25,15 +27,15 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "rectangle",
-      "id": "E852C24C-7F26-49B9-AEA1-44D3C126DFE3"
+      "id": "F693A3B5-B8F2-48BE-80E6-09078F7B5497"
     }
   ],
-  "name": "header-bg",
-  "nameIsFixed": true,
+  "name": "Rectangle 2 Copy 2",
+  "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
@@ -51,11 +53,12 @@
           "red": 0.592
         },
         "fillType": 0,
-        "isEnabled": false,
+        "isEnabled": true,
         "position": 1,
         "thickness": 1
       }
     ],
+    "do_objectID": "7E2E4146-7E55-465E-A92C-24D73BB23240",
     "endDecorationType": 0,
     "fills": [
       {
@@ -63,9 +66,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.19,
-          "green": 0.19,
-          "red": 0.19
+          "blue": 1,
+          "green": 1,
+          "red": 1
         },
         "fillType": 0,
         "isEnabled": true,
@@ -76,28 +79,6 @@
       }
     ],
     "miterLimit": 10,
-    "shadows": [
-      {
-        "_class": "shadow",
-        "blurRadius": 1,
-        "color": {
-          "_class": "color",
-          "alpha": 0.03,
-          "blue": 0,
-          "green": 0,
-          "red": 0
-        },
-        "contextSettings": {
-          "_class": "graphicsContextSettings",
-          "blendMode": 0,
-          "opacity": 1
-        },
-        "isEnabled": true,
-        "offsetX": 0,
-        "offsetY": 1,
-        "spread": 0
-      }
-    ],
     "startDecorationType": 0
   },
   "userInfo": {

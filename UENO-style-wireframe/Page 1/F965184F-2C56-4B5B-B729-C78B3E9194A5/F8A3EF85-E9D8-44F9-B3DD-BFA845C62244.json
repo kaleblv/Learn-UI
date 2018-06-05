@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Roboto-Medium",
+              "name": "Roboto-Regular",
               "size": 16
             }
           },
@@ -52,11 +52,11 @@
     "constrainProportions": false,
     "do_objectID": "267BF830-68FE-4AAF-869A-1E84FB328541",
     "height": 19,
-    "width": 98,
-    "x": 358,
-    "y": 405
+    "width": 97,
+    "x": 348,
+    "y": 493
   },
-  "glyphBounds": "{{0, 3}, {97, 16}}",
+  "glyphBounds": "{{0, 3}, {96, 16}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -89,7 +89,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Roboto-Medium",
+            "name": "Roboto-Regular",
             "size": 16
           }
         },
